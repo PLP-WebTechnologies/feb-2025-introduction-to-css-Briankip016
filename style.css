@@ -1,0 +1,37 @@
+/* Style the header using an ID selector */
+#main-header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Style the paragraph using a class selector */
+.intro {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin: 20px;
+    font-family: 'Georgia', serif;
+}
+
+/* Style the image using a class selector */
+.styled-image {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Add padding and margin to the footer */
+footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-family: 'Verdana', sans-serif;
+    color: #555;
+}
